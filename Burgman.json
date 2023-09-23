@@ -9,49 +9,49 @@
     "id": 2,
     "price": 99,
     "stock":56,
-    "name": "Crispy-Veg",
+    "name": "Crispy-Veg (Doble Patty)",
     "img" : "https://w7.pngwing.com/pngs/201/77/png-transparent-hamburger-veggie-burger-take-out-fast-food-kebab-delicious-beef-burger-burger-with-lettuce-tomato-and-cheese-food-beef-recipe.png"
 },{
     "id": 3,
     "price": 99,
     "stock":56,
-    "name": "Crispy-Veg",
+    "name": "Jumbo-King",
     "img" : "https://w7.pngwing.com/pngs/201/77/png-transparent-hamburger-veggie-burger-take-out-fast-food-kebab-delicious-beef-burger-burger-with-lettuce-tomato-and-cheese-food-beef-recipe.png"
 },{
     "id": 4,
     "price": 99,
     "stock":56,
-    "name": "Crispy-Veg",
+    "name": "Fit-Hit",
     "img" : "https://w7.pngwing.com/pngs/201/77/png-transparent-hamburger-veggie-burger-take-out-fast-food-kebab-delicious-beef-burger-burger-with-lettuce-tomato-and-cheese-food-beef-recipe.png"
 },{
     "id": 5,
     "price": 99,
     "stock":56,
-    "name": "Crispy-Veg",
+    "name": "French Fries",
     "img" : "https://w7.pngwing.com/pngs/201/77/png-transparent-hamburger-veggie-burger-take-out-fast-food-kebab-delicious-beef-burger-burger-with-lettuce-tomato-and-cheese-food-beef-recipe.png"
 },{
     "id": 6,
     "price": 99,
     "stock":56,
-    "name": "Crispy-Veg",
+    "name": "Peri-Peri Fries",
     "img" : "https://w7.pngwing.com/pngs/201/77/png-transparent-hamburger-veggie-burger-take-out-fast-food-kebab-delicious-beef-burger-burger-with-lettuce-tomato-and-cheese-food-beef-recipe.png"
 },{
     "id": 7,
     "price": 99,
     "stock":56,
-    "name": "Crispy-Veg",
+    "name": "Cold-Drink",
     "img" : "https://w7.pngwing.com/pngs/201/77/png-transparent-hamburger-veggie-burger-take-out-fast-food-kebab-delicious-beef-burger-burger-with-lettuce-tomato-and-cheese-food-beef-recipe.png"
 },{
     "id": 8,
     "price": 99,
     "stock":56,
-    "name": "Crispy-Veg",
+    "name": "Cold-Coffee",
     "img" : "https://w7.pngwing.com/pngs/201/77/png-transparent-hamburger-veggie-burger-take-out-fast-food-kebab-delicious-beef-burger-burger-with-lettuce-tomato-and-cheese-food-beef-recipe.png"
 },{
     "id": 9,
     "price": 99,
     "stock":56,
-    "name": "Crispy-Veg",
+    "name": "Ketup",
     "img" : "https://w7.pngwing.com/pngs/201/77/png-transparent-hamburger-veggie-burger-take-out-fast-food-kebab-delicious-beef-burger-burger-with-lettuce-tomato-and-cheese-food-beef-recipe.png"
 },{
     "id": 10,
@@ -63,24 +63,24 @@
     "id": 11,
     "price": 99,
     "stock":56,
-    "name": "Crispy-Veg",
+    "name": "Dip",
     "img" : "https://w7.pngwing.com/pngs/201/77/png-transparent-hamburger-veggie-burger-take-out-fast-food-kebab-delicious-beef-burger-burger-with-lettuce-tomato-and-cheese-food-beef-recipe.png"
 },{
     "id": 12,
     "price": 99,
     "stock":56,
-    "name": "Crispy-Veg",
+    "name": "Sandwich",
     "img" : "https://w7.pngwing.com/pngs/201/77/png-transparent-hamburger-veggie-burger-take-out-fast-food-kebab-delicious-beef-burger-burger-with-lettuce-tomato-and-cheese-food-beef-recipe.png"
 },{
     "id": 13,
     "price": 99,
     "stock":56,
-    "name": "Crispy-Veg",
+    "name": "Veg-Wrap",
     "img" : "https://w7.pngwing.com/pngs/201/77/png-transparent-hamburger-veggie-burger-take-out-fast-food-kebab-delicious-beef-burger-burger-with-lettuce-tomato-and-cheese-food-beef-recipe.png"
 },{
     "id": 14,
     "price": 99,
     "stock":56,
-    "name": "Crispy-Veg",
+    "name": "BurgMan Special",
     "img" : "https://w7.pngwing.com/pngs/201/77/png-transparent-hamburger-veggie-burger-take-out-fast-food-kebab-delicious-beef-burger-burger-with-lettuce-tomato-and-cheese-food-beef-recipe.png"
 }]
