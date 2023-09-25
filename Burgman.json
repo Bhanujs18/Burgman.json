@@ -3,98 +3,112 @@
     "price": 99,
     "stock":56,
     "name": "Crispy-Veg",
-    "category": "https://lh3.googleusercontent.com/heEKIN6Sx6ouzHPHvVQC0AfeK-DWNOX6tjm8DRyIKmwKdkgMKC_Ms7ZczZBc2BrSsCG65hvAUx_XP-IXnORrgN5BBF3Yj8TkxtMFOm_l",
-    "img": "https://w7.pngwing.com/pngs/201/77/png-transparent-hamburger-veggie-burger-take-out-fast-food-kebab-delicious-beef-burger-burger-with-lettuce-tomato-and-cheese-food-beef-recipe.png"
+    "rating": 4.5,
+    "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png",
+    "img": "https://lh3.googleusercontent.com/heEKIN6Sx6ouzHPHvVQC0AfeK-DWNOX6tjm8DRyIKmwKdkgMKC_Ms7ZczZBc2BrSsCG65hvAUx_XP-IXnORrgN5BBF3Yj8TkxtMFOm_l"
 },
 {
     "id": 2,
     "price": 99,
     "stock":56,
     "name": "Crispy-Veg (Doble Patty)",
+    "rating": 4.5,
     "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png",
-    "img": "https://w7.pngwing.com/pngs/201/77/png-transparent-hamburger-veggie-burger-take-out-fast-food-kebab-delicious-beef-burger-burger-with-lettuce-tomato-and-cheese-food-beef-recipe.png"
+    "img": "https://lh3.googleusercontent.com/JBw7P1qkKktFdLL0w0IvQh--64ucRtki9HSqE0unXpZf8pzhBacBayFV6xh4U1LT287_u8nGNdwFmq_ofzExdSR4Nm9CIqk9XmobxW8k"
 },{
     "id": 3,
     "price": 99,
     "stock":56,
     "name": "Jumbo-King",
+    "rating": 4.5,
      "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png", 
-    "img": "https://w7.pngwing.com/pngs/201/77/png-transparent-hamburger-veggie-burger-take-out-fast-food-kebab-delicious-beef-burger-burger-with-lettuce-tomato-and-cheese-food-beef-recipe.png"
+    "img": "https://lh3.googleusercontent.com/ZMdA0IOCnadQHK7THCcpdZURT2kWl_eXvJyC_mRVjmRZ9ZiDEiAxgUmNe4tXi-A3tuEKU-iecV8eDxFtGdyOB2cG1nAnx9frmYJ1hGwx"
 },{
     "id": 4,
     "price": 99,
     "stock":56,
     "name": "Fit-Hit",
+    "rating": 4.5,
      "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png", 
-    "img": "https://w7.pngwing.com/pngs/201/77/png-transparent-hamburger-veggie-burger-take-out-fast-food-kebab-delicious-beef-burger-burger-with-lettuce-tomato-and-cheese-food-beef-recipe.png"
+    "img": "https://b.zmtcdn.com/data/dish_photos/cc6/7982d2af03dece4b6f58a66ecb208cc6.jpg"
 },{
     "id": 5,
     "price": 99,
     "stock":56,
     "name": "French Fries",
+    "rating": 4.5,
       "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png",
-    "img": "https://w7.pngwing.com/pngs/201/77/png-transparent-hamburger-veggie-burger-take-out-fast-food-kebab-delicious-beef-burger-burger-with-lettuce-tomato-and-cheese-food-beef-recipe.png"
+    "img": "https://cdn.britannica.com/34/206334-050-7637EB66/French-fries.jpg"
 },{
     "id": 6,
     "price": 99,
     "stock":56,
     "name": "Peri-Peri Fries",
+    "rating": 4.5,
     "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png", 
-    "img": "https://w7.pngwing.com/pngs/201/77/png-transparent-hamburger-veggie-burger-take-out-fast-food-kebab-delicious-beef-burger-burger-with-lettuce-tomato-and-cheese-food-beef-recipe.png"
+    "img": "https://cakedine.com/wp-content/uploads/2023/03/peri-peri.jpeg"
 },{
     "id": 7,
     "price": 99,
     "stock":56,
     "name": "Cold-Drink",
+    "rating": 4.5,
     "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png",  
-    "img": "https://w7.pngwing.com/pngs/201/77/png-transparent-hamburger-veggie-burger-take-out-fast-food-kebab-delicious-beef-burger-burger-with-lettuce-tomato-and-cheese-food-beef-recipe.png"
+    "img": "https://5.imimg.com/data5/SELLER/Default/2023/2/RR/VR/WZ/184924156/coca-cola-cold-drink-500x500.jpg"
 },{
     "id": 8,
     "price": 99,
     "stock":56,
     "name": "Cold-Coffee",
+    "rating": 4.5,
     "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png",  
-    "img": "https://w7.pngwing.com/pngs/201/77/png-transparent-hamburger-veggie-burger-take-out-fast-food-kebab-delicious-beef-burger-burger-with-lettuce-tomato-and-cheese-food-beef-recipe.png"
+    "img": "https://www.cookwithmanali.com/wp-content/uploads/2022/07/Iced-Mocha.jpg"
 },{
     "id": 9,
-    "price": 99,
+    "price": 1,
     "stock":56,
-    "name": "Ketup",
+    "name": "Ketchup",
+    "rating": 4.5,
      "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png", 
-    "img": "https://w7.pngwing.com/pngs/201/77/png-transparent-hamburger-veggie-burger-take-out-fast-food-kebab-delicious-beef-burger-burger-with-lettuce-tomato-and-cheese-food-beef-recipe.png"
+    "img": "https://m.media-amazon.com/images/I/71nqJAlHjnL._AC_UF1000,1000_QL80_.jpg"
 },{
     "id": 10,
     "price": 99,
     "stock":56,
-    "name": "Crispy-Veg",
+    "name": "Combo",
+    "rating": 4.5,
      "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png", 
-    "img": "https://w7.pngwing.com/pngs/201/77/png-transparent-hamburger-veggie-burger-take-out-fast-food-kebab-delicious-beef-burger-burger-with-lettuce-tomato-and-cheese-food-beef-recipe.png"
+    "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/zmn1fymdtkprk5vlkud1"
 },{
     "id": 11,
     "price": 99,
     "stock":56,
     "name": "Dip",
+    "rating": 4.5,
       "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png",
-    "img": "https://w7.pngwing.com/pngs/201/77/png-transparent-hamburger-veggie-burger-take-out-fast-food-kebab-delicious-beef-burger-burger-with-lettuce-tomato-and-cheese-food-beef-recipe.png"
+    "img": "https://cdn.sanity.io/images/czqk28jt/prod_bk_ch/f0a8e30b9ec53713f25c7e2b56ed3c007497b8c7-1600x1600.png?w=648&q=40&fit=max&auto=format"
 },{
     "id": 12,
     "price": 99,
     "stock":56,
     "name": "Sandwich",
+    "rating": 4.5,
       "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png",
-    "img": "https://w7.pngwing.com/pngs/201/77/png-transparent-hamburger-veggie-burger-take-out-fast-food-kebab-delicious-beef-burger-burger-with-lettuce-tomato-and-cheese-food-beef-recipe.png"
+    "img": "https://external-preview.redd.it/dY3d0rSBM8qd7alKQlaoA9VJ-udS0_Y-bQtGeSwFIB8.jpg?auto=webp&s=9131fd5800dc16884636694210867f936f4fcb33"
 },{
     "id": 13,
     "price": 99,
     "stock":56,
     "name": "Veg-Wrap",
+    "rating": 4.5,
       "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png",
-    "img": "https://w7.pngwing.com/pngs/201/77/png-transparent-hamburger-veggie-burger-take-out-fast-food-kebab-delicious-beef-burger-burger-with-lettuce-tomato-and-cheese-food-beef-recipe.png"
+    "img": "https://burgerkingks.com/wp-content/uploads/2020/08/crispy-wrap-ss-new.png"
 },{
     "id": 14,
     "price": 99,
     "stock":56,
     "name": "BurgMan Special",
+    "rating": 4.5,
      "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png", 
-    "img": "https://w7.pngwing.com/pngs/201/77/png-transparent-hamburger-veggie-burger-take-out-fast-food-kebab-delicious-beef-burger-burger-with-lettuce-tomato-and-cheese-food-beef-recipe.png"
+    "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/b6de81ce385a17c9f4e54315e739cd19"
 }]
