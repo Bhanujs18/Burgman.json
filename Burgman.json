@@ -5,7 +5,7 @@
     "name": "Crispy-Veg",
     "rating": 4.1,
     "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png",
-    "img": "https://lh3.googleusercontent.com/heEKIN6Sx6ouzHPHvVQC0AfeK-DWNOX6tjm8DRyIKmwKdkgMKC_Ms7ZczZBc2BrSsCG65hvAUx_XP-IXnORrgN5BBF3Yj8TkxtMFOm_l"
+    "img": "https://res.cloudinary.com/dyqynjew8/image/upload/v1699254364/png-transparent-crispy-chicken-burger-crispy-chicken-burger-hamburger-crispy-thumbnail-removebg-preview_gzulgu.png"
 },
 {
     "id": 2,
@@ -14,7 +14,7 @@
     "name": "Crispy-Veg (Double)",
     "rating": 4.6,
     "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png",
-    "img": "https://lh3.googleusercontent.com/JBw7P1qkKktFdLL0w0IvQh--64ucRtki9HSqE0unXpZf8pzhBacBayFV6xh4U1LT287_u8nGNdwFmq_ofzExdSR4Nm9CIqk9XmobxW8k"
+    "img": "https://res.cloudinary.com/dyqynjew8/image/upload/v1699254364/637879628797031917_CrispyVegDoublePattywithCheese-removebg-preview_zrekzz.png"
 },{
     "id": 3,
     "price": 99,
@@ -22,7 +22,7 @@
     "name": "Jumbo-King",
     "rating": 4,
      "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png", 
-    "img": "https://lh3.googleusercontent.com/ZMdA0IOCnadQHK7THCcpdZURT2kWl_eXvJyC_mRVjmRZ9ZiDEiAxgUmNe4tXi-A3tuEKU-iecV8eDxFtGdyOB2cG1nAnx9frmYJ1hGwx"
+    "img": "https://res.cloudinary.com/dyqynjew8/image/upload/v1699254363/png-clipart-delicious-beef-burger-delicious-beef-burger-tomato-thumbnail-removebg-preview_thjc2n.png"
 },{
     "id": 4,
     "price": 109,
@@ -30,7 +30,7 @@
     "name": "Fit-Hit",
     "rating": 4.2,
      "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png", 
-    "img": "https://b.zmtcdn.com/data/dish_photos/cc6/7982d2af03dece4b6f58a66ecb208cc6.jpg"
+    "img": "https://res.cloudinary.com/dyqynjew8/image/upload/v1699254363/png-transparent-graphy-of-burger-with-tomato-and-vegetable-veggie-burger-hamburger-vegetarian-cuisine-chicken-sandwich-vada-pav-burger-food-cheese-recipe-thumbnail-removebg-preview_bx0cvt.png"
 },{
     "id": 5,
     "price": 79,
@@ -38,7 +38,7 @@
     "name": "French Fries",
     "rating": 4.5,
       "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png",
-    "img": "https://cdn.britannica.com/34/206334-050-7637EB66/French-fries.jpg"
+    "img": "https://res.cloudinary.com/dyqynjew8/image/upload/v1699254364/intro-1682531792-removebg-preview_ptqcat.png"
 },{
     "id": 6,
     "price": 99,
@@ -46,7 +46,7 @@
     "name": "Peri-Peri Fries",
     "rating": 3.9,
     "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png", 
-    "img": "https://cakedine.com/wp-content/uploads/2023/03/peri-peri.jpeg"
+    "img": "https://res.cloudinary.com/dyqynjew8/image/upload/v1699255270/Peri-Peri-Fries-removebg-preview_pcqlsu.png"
 },{
     "id": 7,
     "price": 40,
@@ -54,7 +54,7 @@
     "name": "Cold-Drink",
     "rating": 4.4,
     "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png",  
-    "img": "https://5.imimg.com/data5/SELLER/Default/2023/2/RR/VR/WZ/184924156/coca-cola-cold-drink-500x500.jpg"
+    "img": "https://res.cloudinary.com/dyqynjew8/image/upload/v1699255343/1600942959-removebg-preview_huwjkj.png"
 },{
     "id": 8,
     "price": 119,
@@ -78,7 +78,7 @@
     "name": "Combo",
     "rating": 4.6,
      "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png", 
-    "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/zmn1fymdtkprk5vlkud1"
+    "img": "https://res.cloudinary.com/dyqynjew8/image/upload/v1699254364/319-removebg-preview_kangn0.png"
 },{
     "id": 11,
     "price": 29,
@@ -110,5 +110,5 @@
     "name": "BurgMan Special",
     "rating": 5,
      "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png", 
-    "img": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/b6de81ce385a17c9f4e54315e739cd19"
+    "img": "https://res.cloudinary.com/dyqynjew8/image/upload/v1699254364/9616591eff8c54c0778c907617c14488-removebg-preview_qykhsu.png"
 }]
