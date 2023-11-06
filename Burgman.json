@@ -5,7 +5,7 @@
     "name": "Crispy-Veg",
     "rating": 4.1,
     "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png",
-    "img": "https://res.cloudinary.com/dyqynjew8/image/upload/v1699254364/png-transparent-crispy-chicken-burger-crispy-chicken-burger-hamburger-crispy-thumbnail-removebg-preview_gzulgu.png"
+    "img": "https://res.cloudinary.com/dyqynjew8/image/upload/v1699256612/Untitled_design__28_-removebg-preview_jdd3yb.png"
 },
 {
     "id": 2,
@@ -14,7 +14,7 @@
     "name": "Crispy-Veg (Double)",
     "rating": 4.6,
     "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png",
-    "img": "https://res.cloudinary.com/dyqynjew8/image/upload/v1699254364/637879628797031917_CrispyVegDoublePattywithCheese-removebg-preview_zrekzz.png"
+    "img": "https://res.cloudinary.com/dyqynjew8/image/upload/v1699256609/Untitled_design__27_-removebg-preview_v7g2si.png"
 },{
     "id": 3,
     "price": 99,
@@ -22,7 +22,7 @@
     "name": "Jumbo-King",
     "rating": 4,
      "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png", 
-    "img": "https://res.cloudinary.com/dyqynjew8/image/upload/v1699254363/png-clipart-delicious-beef-burger-delicious-beef-burger-tomato-thumbnail-removebg-preview_thjc2n.png"
+    "img": "https://res.cloudinary.com/dyqynjew8/image/upload/v1699256611/Untitled_design__32_-removebg-preview_f1nbsm.png"
 },{
     "id": 4,
     "price": 109,
@@ -30,7 +30,7 @@
     "name": "Fit-Hit",
     "rating": 4.2,
      "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png", 
-    "img": "https://res.cloudinary.com/dyqynjew8/image/upload/v1699254363/png-transparent-graphy-of-burger-with-tomato-and-vegetable-veggie-burger-hamburger-vegetarian-cuisine-chicken-sandwich-vada-pav-burger-food-cheese-recipe-thumbnail-removebg-preview_bx0cvt.png"
+    "img": "https://res.cloudinary.com/dyqynjew8/image/upload/v1699256613/Untitled_design__26_-removebg-preview_snvcvw.png"
 },{
     "id": 5,
     "price": 79,
@@ -38,7 +38,7 @@
     "name": "French Fries",
     "rating": 4.5,
       "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png",
-    "img": "https://res.cloudinary.com/dyqynjew8/image/upload/v1699254364/intro-1682531792-removebg-preview_ptqcat.png"
+    "img": "https://res.cloudinary.com/dyqynjew8/image/upload/v1699256610/Untitled_design__33_-removebg-preview_gn6njf.png"
 },{
     "id": 6,
     "price": 99,
@@ -46,7 +46,7 @@
     "name": "Peri-Peri Fries",
     "rating": 3.9,
     "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png", 
-    "img": "https://res.cloudinary.com/dyqynjew8/image/upload/v1699255270/Peri-Peri-Fries-removebg-preview_pcqlsu.png"
+    "img": "https://res.cloudinary.com/dyqynjew8/image/upload/v1699256610/Untitled_design__34_-removebg-preview_e9gtwg.png"
 },{
     "id": 7,
     "price": 40,
@@ -62,7 +62,7 @@
     "name": "Cold-Coffee",
     "rating": 4.9,
     "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png",  
-    "img": "https://www.cookwithmanali.com/wp-content/uploads/2022/07/Iced-Mocha.jpg"
+    "img": "https://res.cloudinary.com/dyqynjew8/image/upload/v1699256611/Untitled_design__31_-removebg-preview_bkio1c.png"
 },{
     "id": 9,
     "price": 1,
@@ -78,7 +78,7 @@
     "name": "Combo",
     "rating": 4.6,
      "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png", 
-    "img": "https://res.cloudinary.com/dyqynjew8/image/upload/v1699254364/319-removebg-preview_kangn0.png"
+    "img": "https://res.cloudinary.com/dyqynjew8/image/upload/v1699256610/Untitled_design__29_-removebg-preview_gq1ubm.png"
 },{
     "id": 11,
     "price": 29,
@@ -110,5 +110,5 @@
     "name": "BurgMan Special",
     "rating": 5,
      "category": "https://www.pngkey.com/png/detail/261-2619381_chitr-veg-symbol-svg-veg-and-non-veg.png", 
-    "img": "https://res.cloudinary.com/dyqynjew8/image/upload/v1699254364/9616591eff8c54c0778c907617c14488-removebg-preview_qykhsu.png"
+    "img": "https://res.cloudinary.com/dyqynjew8/image/upload/v1699256611/Untitled_design__30_-removebg-preview_w5r6ee.png"
 }]
